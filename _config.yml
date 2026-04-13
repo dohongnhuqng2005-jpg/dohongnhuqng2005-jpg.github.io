@@ -7,13 +7,13 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "Quảng Ngãi - Việt Nam"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Hồng Như Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Hồng Như"
+description              : &description "Portfolio học thuật của Hồng Như, sinh viên chuyên ngành Công nghệ Internet vanj vật (IoT)."   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://dohongnhuqng2005-jpg.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  name             : "Hồng Như Portfolio"
+  pronouns         : "she". # example: "she/her"  
+  bio              : "Đang học tập và nghiên cứu về hệ thống nhúng."
+  location         : "Quảng Ngãi - Việt Nam"
   employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              : https://dohongnhuqng2005-jpg.github.io/ # URL
+  email            : "dohongnhuqng2005@gmail.com" 
 
   # Academic websites
   academia         : # URL
