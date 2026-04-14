@@ -33,18 +33,13 @@ author:
   avatar           : "/images/avatar-nhu.jpg"
 
   name             : "Hồng Như"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Sinh viên ngành Công nghệ Internet vạn vật - PTIT"
   location         : "Hồ Chí Minh - Việt Nam"
   employer         : "student"
   uri              : # URL "https://dohongnhuqng2005-jpg.github.io"
-  name             : "Hồng Như Portfolio"
-  pronouns         : "she". # example: "she/her"  
-  bio              : "Đang học tập và nghiên cứu về hệ thống nhúng."
-  location         : "Hồ Chí Minh - Việt Nam"
-  employer         : "Student"
+  name             : "Hồng Như Portfolio" 
   uri              : https://dohongnhuqng2005-jpg.github.io/ # URL
-
   email            : "dohongnhuqng2005@gmail.com" 
 
   # Academic websites
