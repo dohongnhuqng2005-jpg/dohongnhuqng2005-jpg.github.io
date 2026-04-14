@@ -39,7 +39,7 @@ author:
   employer         : "student"
   uri              : # URL "https://dohongnhuqng2005-jpg.github.io"
   name             : "Hồng Như Portfolio" 
-  uri              : https://dohongnhuqng2005-jpg.github.io/ # URL
+  uri              : https://dohongnhuqng2005-jpg.github.io/ # URL 
   email            : "dohongnhuqng2005@gmail.com" 
 
   # Academic websites
@@ -71,6 +71,7 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
+github: "dohongnhuqng2005-jpg"
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
